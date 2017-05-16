@@ -13,4 +13,5 @@ text_in_file = test2_file.read()
 
 print(text_in_file)
 
+test2_file.close()
 #os.remove("test.txt")
